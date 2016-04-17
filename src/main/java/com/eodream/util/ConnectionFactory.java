@@ -35,7 +35,7 @@ public class ConnectionFactory {
     }
 
     //constructor
-    private ConnectionFactory(){
+    public ConnectionFactory(){
 
     }
 
