@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Java EE 6-Java EE 6">
+    <archive path="F:/GitProject/OGD/lib/javax.annotation.jar" />
+    <archive path="F:/GitProject/OGD/lib/javax.jms.jar" />
+    <archive path="F:/GitProject/OGD/lib/javax.ejb.jar" />
+    <archive path="F:/GitProject/OGD/lib/javax.transaction.jar" />
+    <archive path="F:/GitProject/OGD/lib/javax.persistence.jar" />
+    <archive path="F:/GitProject/OGD/lib/javax.resource.jar" />
+    <archive path="F:/GitProject/OGD/lib/javax.servlet.jar" />
+    <archive path="F:/GitProject/OGD/lib/javax.servlet.jsp.jar" />
+    <archive path="F:/GitProject/OGD/lib/javax.servlet.jsp.jstl.jar" />
+  </library>
+  <library name="Struts 2-2.3.20.1">
+    <archive path="F:/GitProject/OGD/lib/ognl.jar" />
+    <archive path="F:/GitProject/OGD/lib/commons-fileupload.jar" />
+    <archive path="F:/GitProject/OGD/lib/commons-lang.jar" />
+    <archive path="F:/GitProject/OGD/lib/xwork-core.jar" />
+    <archive path="F:/GitProject/OGD/lib/asm.jar" />
+    <archive path="F:/GitProject/OGD/lib/struts2-core.jar" />
+    <archive path="F:/GitProject/OGD/lib/asm-commons.jar" />
+    <archive path="F:/GitProject/OGD/lib/commons-io.jar" />
+    <archive path="F:/GitProject/OGD/lib/asm-tree.jar" />
+    <archive path="F:/GitProject/OGD/lib/freemarker.jar" />
+    <archive path="F:/GitProject/OGD/lib/javassist.jar" />
+  </library>
+  <library name="mysql-connector-java-5.1.35-bin">
+    <archive path="C:/Users/Andyliwr/.IntelliJIdea2016.1/config/jdbc-drivers/mysql-connector-java-5.1.35-bin.jar" />
+  </library>
+</eclipse-userlibraries>
+
