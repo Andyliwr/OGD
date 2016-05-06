@@ -1,0 +1,1645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="038bd3df-9800-4b05-b449-900172eddd73" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/carto/cartogothicstd-book-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/color/blue.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/jquery-slider-theme.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/light_rounded/default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/js/scripts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/ad3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/carto/FontSite License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/js/jquery.masonry.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/js/jquery-1.6.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/icon4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/js/ddsmoothmenu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/p12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/ad2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/car-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/icon2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/dark_rounded/btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/WEB-INF/lib/freemarker.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/icon-tag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/copse/copse-regular-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/dark_square/btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/page-navi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/titillium/titilliumtext22l004-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/light_square/btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/titillium.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/dark_rounded/contentPattern.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/facebook/contentPatternTop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/js/carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/quicksand/quicksand_bold-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/delicious/delicious-roman-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/icon-play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/ptsans/Paratype PT Sans Free Font License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/mido/Mido-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/cross.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/white-opacity-80.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/ptsans/ptsans-italic-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/p8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/light_rounded/btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OGD.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/default/sprite_next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/bg5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/jquery-slider-theme.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/otari/Otari-Bold-Limited-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/icon-skype.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/prettyPhoto.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/login.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/adelle/adellebasic-bold-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/puritan.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OGD.userlibraries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/quicksand/quicksand_bold-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/classic/ttf/style_194538.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/museo/museo-700-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/adelle/adellebasic-bold-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/page-navi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/facebook/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/f2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/icon-flickr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/c6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/s2.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/tile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/titillium/titilliumtext22l004-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/s1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/a3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/icon-deviantart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/charis/CharisSILI-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/museo/museo-500-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/include/footer.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/WEB-INF/classes/com/eodream/service/UserTableService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/asm.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/light_rounded/default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/vegur/vegur-r_0.602-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/vegur/vegur-r_0.602-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/museo/museo-700-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/vegur.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/f5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/a5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/transify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/titillium/titilliumtext22l004-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/default/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/s2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/WEB-INF/lib/asm-tree.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/se2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/dark_square/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/puritan/SIL Open Font License 1.1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/javax.resource.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/museo/museo-700-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/museo/museo-700-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/jquery-slider-rotator-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/icon-play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/adelle/adellebasic-bold-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/bg6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/js/jquery.slickforms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/icon-vimeo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/post3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/otari/Otari-Bold-Limited-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/bg4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/default/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/OGD/resources/dbconfig.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/a1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/museo/museo-300-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/WEB-INF/lib/commons-lang.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/delicious/delicious-roman-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/headImg/manzi2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/icon-more.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/a3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/post3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/ad4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/copse/copse-regular-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/OGD/com/eodream/util/OperationFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/p8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/puritan/Puritan_Regular-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/ptsans.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/javax.jms.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/freemarker.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/tree.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/icon-tumblr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/museo/museo-700-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/dark_rounded/btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/default/sprite_y.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/css/jquery.slider.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/jquery-slider-theme.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/dark_square/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/s1.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.35-bin.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/delicious.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/dark_rounded/contentPattern.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/adelle/adellebasic-bold-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/quote.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/se3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/dark_rounded/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/ptsans/Paratype PT Sans Free Font License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/ptsans/ptsans-italic-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/p12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/eodream/util/OperationFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/css/color/lime.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/titillium/TitilliumText22L600wt-demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/dark_square/default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/light_rounded/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/se3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/classic/Start here files/layout.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/quicksand/quicksand_book-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/carto/cartogothicstd-book-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/codebg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/museo/museo-700-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/classic/Start here files/header.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/otari/Otari-Bold-Limited-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/facebook/contentPatternLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/javassist.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/light_rounded/btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/quicksand/quicksand_book-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/css/searchPage.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/mido/Mido-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/check-table.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/quicksand/quicksand_book-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/default/sprite_x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/arrows.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/c4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/f7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/adelle.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/eodream/model/UserTable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/icon-qq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/se2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/bg3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/facebook/contentPatternBottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/color/red.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/codebg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/f9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/copse.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/printUserTable.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/delicious/delicious-roman-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/style2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/quicksand/quicksand_bold-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/otari/Otari-Bold-Limited-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/light_square/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/default/sprite_prev.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/jquery-1.6.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/icon-comment.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/css/color/blue.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/icon-tumblr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/default/sprite_x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/WEB-INF/classes/dbconfig.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/icon-youtube.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/ad4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/c1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/p13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/otari.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/mido/Mido-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/classic/woff/style_194538.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/facebook/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/default/sprite_prev.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/classic/eot/style_194538.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/f3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/charis/CharisSILI-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/arvo/Arvo-Regular-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/icon-flickr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/javax.transaction.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/ptsans/ptsans-regular-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/otari/Otari-Bold-Limited-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/classic/Start here files/highlight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/p4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/f1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/OGD/com/eodream/service/UserTableService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/OGD/com/eodream/model/UserTable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/museo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/quicksand/Quicksand License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/f4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/dark_rounded/default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/css/color/green.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/circle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/puritan/Puritan_Regular-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/s2.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/ptsans/ptsans-regular-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/light_square/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/about.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/f5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/selfDefine.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/classic/StartHere.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/WEB-INF/lib/javassist.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/js/map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/bg3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/charis/CharisSILI-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/WEB-INF/classes/com/eodream/model/UserTable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/tile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/p13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/puritan/Puritan_Regular-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/museo/museo-300-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/logo-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/arvo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/p2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/WEB-INF/classes/com/eodream/servlet/PrintUserTable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/logo-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/delicious/delicious-roman-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/p5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/carto.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/ddsmoothmenu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/delicious/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/white-opacity-80.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/a4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/icon-zoom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/copse/copse-regular-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/jquery-slider-rotator-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/css/selfDefine.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/OGD/dbconfig.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/p9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/about.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/light_square/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/dark_square/btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/classic/StartHere.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/carto.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/WEB-INF/classes/com/eodream/servlet/printServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/c5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/OGD/com/eodream/util/ConnectionFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/titillium/OFL-FAQ.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/icon-github.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/titillium.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/arvo/Arvo-Regular-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/dark_rounded/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/classic/Start here files/layout.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/commons-fileupload.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/delicious/delicious-roman-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/carto/FontSite License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/charis/CharisSILI-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/copse/copse-regular-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/p7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/dark_rounded/btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/mido/Mido-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/puritan/Puritan_Regular-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/arvo/Arvo-Regular-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/se1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/quicksand/quicksand_bold-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/WEB-INF/lib/asm-commons.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/titillium/TitilliumText22L600wt-demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/puritan/SIL Open Font License 1.1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/jquery-slider-theme.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/light_rounded/btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/icon-twitter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/se1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/f2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/vegur/vegur-r_0.602-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/icon-linkedin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/adelle/adellebasic-bold-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/icon-twitter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/jquery.prettyPhoto.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/javax.annotation.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/vegur/vegur-r_0.602-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/login.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/facebook/default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/classic/eot/style_194538.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/model.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/circle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/titillium/titilliumtext22l004-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/delicious/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/bg1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/classic/Start here files/header.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/charis.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/ad2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/quicksand.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/facebook/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/f8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/mido/Eva Grinder License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/copse/copse-regular-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/s1.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/adelle/adellebasic-bold-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/light_rounded/btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/icon2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/carto/cartogothicstd-book-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/p7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/bg6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/icon1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/carto/cartogothicstd-book-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/se4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/icon-linkedin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/ptsans/ptsans-regular-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/ptsans/ptsans-regular-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/arrows.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/f6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/facebook/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/copse/copse-regular-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/quicksand/quicksand_book-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/p5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/facebook/contentPatternRight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/facebook/contentPatternLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/museo/museo-300-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/ptsans/ptsans-italic-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/jquery.slider.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/dark_square/default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/copse.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/adelle/adellebasic-bold-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/quicksand/quicksand_bold-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/vegur/vegur-r_0.602-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/mido.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/otari/Otari-Bold-Limited-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/copse/SIL Open Font License 1.1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/light_square/btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/titillium/OFL-FAQ.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/classic/svg/style_194538.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/eodream/util/ConnectionFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/tree.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/s3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/dark_square/btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/light_square/btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/otari.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/ptsans/ptsans-regular-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/museo/museo-500-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/OGD/com/eodream/servlet/PrintUserTable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/printUserTable.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/s4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/default/sprite_y.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/s5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/OGD/struts.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/dark_square/contentPattern.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/dark_square/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/icon-youtube.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/ptsans/ptsans-regular-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/dark_square/btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/ad1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/f4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/c6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/javax.servlet.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/dark_rounded/btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/f3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/struts2-core.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/charis/CharisSILI-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/delicious/delicious-roman-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/light_square/default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OGD.eml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/bg1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/OGD/com/eodream/servlet/printServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/icon-category.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/ad1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/c2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/post2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/f1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/charis/CharisSILI-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/post1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/charis/CharisSILI-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/puritan/Puritan_Regular-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/carto/cartogothicstd-book-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/c3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/c2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/WEB-INF/classes/com/eodream/util/ConnectionFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/classic/svg/style_194538.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/search.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/WEB-INF/lib/ognl.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/js/jquery.prettyPhoto.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/icon-dribble.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/s2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/quicksand.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/icon-tag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/dark_square/contentPattern.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/jquery.jcarousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/WEB-INF/lib/xwork-core.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/light_square/default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/WEB-INF/classes/resources/dbconfig.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/headImg/manzi2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/vegur/vegur-r_0.602-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/eodream/service/UserTableService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/quicksand/quicksand_book-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/WEB-INF/lib/struts2-core.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/xwork-core.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/museo/museo-500-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/mido.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/quicksand/quicksand_bold-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/otari/@Font-Face License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/facebook/btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/arvo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/post1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/color/green.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/ad3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/dark_rounded/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/css/style2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/titillium/titilliumtext22l004-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/quicksand/Quicksand License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/puritan.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/classic.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/quicksand/quicksand_bold-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/adelle.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/mido/Mido-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/icon-github.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/carto/cartogothicstd-book-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/vegur/vegur-r_0.602-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/p1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/a1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/icon3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/puritan/Puritan_Regular-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/arvo/Arvo-Regular-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/c1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/charis/CharisSILI-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/arvo/Arvo-Regular-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/c4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/WEB-INF/classes/com/eodream/util/OperationFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/model.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/arvo/Arvo-Regular-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/copse/copse-regular-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/s1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/jquery-slider-rotator-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/f6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/c3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/p6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/bg4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/js/jquery.jcarousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/carto/cartogothicstd-book-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/asm-commons.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/arvo/Arvo-Regular-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/p2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/museo/museo-300-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/otari/@Font-Face License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/museo/museo-300-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/classic/ttf/style_194538.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/color/lime.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/museo/museo-300-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/css/color/purple.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/delicious/delicious-roman-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/facebook/default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/copse/copse-regular-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/bg5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/jquery.superbgimage.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/facebook/contentPatternRight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/delicious/delicious-roman-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/p11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/check-table.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/icon-dribble.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/icon-zoom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/WEB-INF/lib/asm.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/museo/museo-500-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/titillium/titilliumtext22l004-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/js/transify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/default/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/classic/Start here files/highlight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/s5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/classic/woff/style_194538.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/p3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/arvo/Arvo-Regular-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/f8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/quicksand/quicksand_book-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/icon-deviantart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/bg2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/a4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/museo/museo-700-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/quicksand/quicksand_book-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/WEB-INF/lib/commons-fileupload.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/include/header.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/mido/Eva Grinder License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/dark_rounded/default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/titillium/titilliumtext22l004-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/facebook/btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/mido/Mido-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/jquery.masonry.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/p9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/eodream/servlet/printServlet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/ptsans/ptsans-regular-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/ptsans/ptsans-italic-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/p10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/p1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/quicksand/quicksand_bold-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/a2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/light_rounded/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/a2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/cross.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/adelle/adellebasic-bold-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/search.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/resources/dbconfig.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/copse/SIL Open Font License 1.1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/museo/museo-500-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/asm-tree.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/include/footer.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/puritan/Puritan_Regular-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/ptsans.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/ptsans/ptsans-italic-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/ptsans/ptsans-italic-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/ptsans/ptsans-italic-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/p11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/mido/Mido-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/icon-more.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/navs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/dark_square/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/museo/museo-300-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/p14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/vegur/vegur-r_0.602-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/ptsans/ptsans-regular-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/js/jquery.superbgimage.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/classic/svg/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/p4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/dark_rounded/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/icon-comment.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/facebook/contentPatternTop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/bg2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/quicksand/quicksand_book-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/icon-vimeo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/css/color/red.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/p10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/scripts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/museo/museo-700-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/searchPage.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/include/header.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/ptsans/ptsans-italic-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/default/default_thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/carto/cartogothicstd-book-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/museo/museo-500-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/museo/museo-500-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/p14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/p3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/commons-io.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/car-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/icon1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/charis.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/icon-googleplus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/otari/Otari-Bold-Limited-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/delicious.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/classic.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/facebook/contentPatternBottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/museo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/s4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/icon3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/WEB-INF/classes/struts.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/WEB-INF/lib/commons-io.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/post2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/icon4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/jquery-slider-rotator-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/c5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/jquery.aw-showcase.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/p6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/js/jquery.aw-showcase.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/se4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/css/prettyPhoto.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/facebook/btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/javax.persistence.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/mido/Mido-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/museo/museo-300-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/navs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/jquery.slickforms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/icon-skype.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/default/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/icon-category.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/color/purple.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/light_rounded/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/classic/svg/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/struts.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/vegur.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/quote.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/otari/Otari-Bold-Limited-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/light_rounded/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/eodream/servlet/PrintUserTable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/default/sprite_next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/default/default_thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/light_square/btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/light_square/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/f7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/f9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/commons-lang.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/type/puritan/Puritan_Regular-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/javax.ejb.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/ognl.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/art/s3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/icon-googleplus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/titillium/titilliumtext22l004-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/art/a5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/type/museo/museo-500-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/prettyPhoto/facebook/btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/OGD_war_exploded/images/icon-qq.png" afterPath="" />
+    </list>
+    <ignored path="OGD.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="OGD" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OGD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files" />
+        <subPane subId="Tests" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="E:/OGD" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Tomcat Server.tomcat">
+    <configuration default="false" name="ConnectionFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.eodream.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.eodream.util.ConnectionFactory" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="OGD" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="OGD [clean]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="OGD [package]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.0.M4" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_OGD_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52115" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="OGD" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_OGD" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51958" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.0.M4" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_OGD" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52115" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.tomcat" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ConnectionFactory" />
+      <item index="2" class="java.lang.String" itemvalue="Maven.OGD [clean]" />
+      <item index="3" class="java.lang.String" itemvalue="Maven.OGD [package]" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Maven.OGD [package]" />
+        <item index="1" class="java.lang.String" itemvalue="Maven.OGD [clean]" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ConnectionFactory" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="038bd3df-9800-4b05-b449-900172eddd73" name="Default" comment="" />
+      <created>1461550984226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1461550984226</updated>
+      <workItem from="1461550992485" duration="2048000" />
+      <workItem from="1461667847331" duration="176000" />
+      <workItem from="1461765758025" duration="321000" />
+      <workItem from="1461976379755" duration="574000" />
+      <workItem from="1462327442754" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3168000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34568834" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25718608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12481089" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3420622" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eodream/util/ConnectionFactory.java" />
+    <entry file="file://$PROJECT_DIR$/web/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eodream/util/ConnectionFactory.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1c6e624c-6c39-4f23-b7ad-4aea43d9e47f/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eodream/service/UserTableService.java" />
+    <entry file="file://$PROJECT_DIR$/web/printUserTable.jsp" />
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eodream/servlet/PrintUserTable.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/web/printUserTable.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eodream/service/UserTableService.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1c6e624c-6c39-4f23-b7ad-4aea43d9e47f/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eodream/util/ConnectionFactory.java" />
+    <entry file="file://$PROJECT_DIR$/web/index.jsp" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>unnamed</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>OGD</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Java EE 6-Java EE 6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

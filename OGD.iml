@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<module version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <orderEntry type="sourceFolder" forTests="false" />
+=======
 <module type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="web" name="Web">
@@ -34,5 +39,6 @@
         <SOURCES />
       </library>
     </orderEntry>
+>>>>>>> 6ade77326963e8292bd9345cf2b063fd52e78ef5
   </component>
 </module>
